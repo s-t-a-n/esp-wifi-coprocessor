@@ -1,0 +1,6 @@
+[submodule "esp-hosted"]
+	path = esp-hosted
+	url = https://github.com/espressif/esp-hosted
+[submodule "lib/esp-hosted"]
+	path = lib/esp-hosted
+	url = https://github.com/espressif/esp-hosted
